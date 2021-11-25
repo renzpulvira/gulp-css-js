@@ -30,4 +30,8 @@ if you don't have nodejs on your system yet please install it first on your syst
 
 gulp will now run and watch your files for any changes.
 
+## Additional files that are optional
+`index.html`, `_normalize.scss` are optional you can rename/delete these files if you dont want to include them.
+also there is a `script` tag that includes **jquery**, if you don't want to use jquery just remove it.
+
 *Thats it!* Hope anyone uses this will help their development process. 

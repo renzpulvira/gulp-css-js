@@ -1,10 +1,4 @@
-$colora: #333;
-.container {
-  .div {
-    color: $colora;
-  }
+@charset "utf-8";
 
-  .nanidesu {
-    font: 700 2.28rem "Roboto Mono";
-  }
-}
+// You can import your .scss files here
+@import "./base/normalize";
