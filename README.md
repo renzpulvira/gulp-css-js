@@ -14,12 +14,10 @@ You can use this to jumpstart your development.
 - concat - concatinate files and merge it to 1 main script
 - uglify - minify your javascript
 
----
 
 ## Watched files
 Files are automatically processed when you save your `.scss` or `.js` files from the `dev` folder.
 
----
 
 ## Usage
 1. clone the repo `https://github.com/renzpulvira/gulp-css-js.git`
@@ -29,5 +27,4 @@ Files are automatically processed when you save your `.scss` or `.js` files from
 
 gulp will now run and watch your files for any changes.
 
----
-Thats it! Hope anyone uses this will help their development process. 
+*Thats it!* Hope anyone uses this will help their development process. 
