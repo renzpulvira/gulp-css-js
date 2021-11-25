@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAEE,gBACE,UCDJ,CDIE,qBACE,4BCFJ","file":"main.css","sourcesContent":["$colora: #333;\n.container {\n  .div {\n    color: $colora;\n  }\n\n  .nanidesu {\n    font: 700 2.28rem \"Roboto Mono\";\n  }\n}\n",".container .div {\n  color: #333;\n}\n.container .nanidesu {\n  font: 700 2.28rem \"Roboto Mono\";\n}"]}
