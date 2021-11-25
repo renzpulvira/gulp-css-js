@@ -20,10 +20,13 @@ Files are automatically processed when you save your `.scss` or `.js` files from
 
 
 ## Usage
+if you don't have nodejs on your system yet please install it first on your system.
+
 1. clone the repo `https://github.com/renzpulvira/gulp-css-js.git`
 2. cd `gulp-css-js`
-3. run `npm i` (assuming you have installed nodejs)
-4. run `gulp`
+3. run `npm i`
+4. install `gulp-cli` globally. run `npm i -g gulp-cli`
+5. finally, run `gulp` 
 
 gulp will now run and watch your files for any changes.
 
